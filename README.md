@@ -8,5 +8,6 @@ My first repository
 
 Alt-H1
 
-*Emphisis*
-~Strikethrough~
+*Emphasis*
+
+~~Strikethrough~~
